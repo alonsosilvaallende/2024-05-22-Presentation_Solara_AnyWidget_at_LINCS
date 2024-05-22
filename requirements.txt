@@ -1,0 +1,13 @@
+jupyterlab
+solara
+anywidget
+ipywidgets
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+altair
+vega-datasets
+drawdata
+tiktoken
