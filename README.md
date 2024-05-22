@@ -2,6 +2,11 @@
 
 The presentation can be found in [this notebook](https://github.com/alonsosilvaallende/2024-05-22-Presentation_Solara_AnyWidget_at_LINCS/blob/main/2024-05-22-Presentation_Solara_AnyWidget_at_LINCS.ipynb).
 
+To run the notebook, install the `requirements.txt`:
+```console
+pip install -r requirements.txt
+```
+
 This presentation took place on May 22, 2024.
 
 The **abstract** of this presentation is the following:
