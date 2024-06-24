@@ -1,6 +1,8 @@
 # Presentation Solara+AnyWidget at LINCS
 
-The presentation can be found in [this notebook](https://github.com/alonsosilvaallende/2024-05-22-Presentation_Solara_AnyWidget_at_LINCS/blob/main/2024-05-22-Presentation_Solara_AnyWidget_at_LINCS.ipynb).
+The video recording of the presentation can be found [here](https://www.youtube.com/watch?v=S4qEsGXOUEg).
+
+The notebook presented can be found [here](https://github.com/alonsosilvaallende/2024-05-22-Presentation_Solara_AnyWidget_at_LINCS/blob/main/2024-05-22-Presentation_Solara_AnyWidget_at_LINCS.ipynb).
 
 To run the notebook, install the `requirements.txt`:
 ```console
