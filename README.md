@@ -2,7 +2,9 @@
 
 The **full title** of this presentation is **"How to create pure Python web apps (Solara+AnyWidget)"**
 
-The **video recording** of the presentation can be found [here](https://www.youtube.com/watch?v=S4qEsGXOUEg).
+The **video recording** of the presentation can be found here:
+
+[![Image of the title slide](http://img.youtube.com/vi/S4qEsGXOUEg/0.jpg)](https://www.youtube.com/watch?v=S4qEsGXOUEg).
 
 The **notebook presented** can be found [here](https://github.com/alonsosilvaallende/2024-05-22-Presentation_Solara_AnyWidget_at_LINCS/blob/main/2024-05-22-Presentation_Solara_AnyWidget_at_LINCS.ipynb).
 
